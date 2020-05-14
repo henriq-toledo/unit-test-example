@@ -4,7 +4,7 @@ using System;
 namespace Calculator.UnitTest
 {
     [TestClass]
-    public class ClaculatorClassTest
+    public class CalculatorClassTest
     {
         [TestMethod]
         public void SumTest()
